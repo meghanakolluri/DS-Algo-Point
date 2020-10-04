@@ -25,6 +25,10 @@ Format: -[Program name](name of the file)
 
 -[Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
+-[Floyd Warshall Algorithm](Floyd–Warshall.cpp)
+
+-[FizzBuzz](fizz_buzz.cpp)
+
 -[Greatest common divisor](GCD.cpp)
 
 -[Heap Sort](heap_sort.cpp)
@@ -33,6 +37,8 @@ Format: -[Program name](name of the file)
 
 -[Implement Merge Sort](MergeSort.cpp)
 
+-[Implementation of Queue](array_implementation_of_queue.cpp)
+
 -[Infix To Postfix](infixToPostStack.cpp)
 
 -[Kadane's Algorithm](KadaneAlgo.cpp)
@@ -40,6 +46,8 @@ Format: -[Program name](name of the file)
 -[Kosaraju's Algorithm](kosarajualgo.cpp)
 
 -[Knapsack Problem](knapsack.cpp)
+
+-[Longest length path in a matrix](longest length path in a matrix.cpp)
 
 -[Largest Number](largest_number.cpp)
 
@@ -50,6 +58,8 @@ Format: -[Program name](name of the file)
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 -[Mathematical Series Demo](maths-series.cpp)
+
+-[Pancake Sorting](Pancake_sort.cpp)
 
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
@@ -98,3 +108,5 @@ Format: -[Program name](name of the file)
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
 
 -[Interpolation Search](interpolation_search.cpp)
+
+-[Tim sort](Tim_Sort.cpp)
